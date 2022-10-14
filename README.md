@@ -1,2 +1,4 @@
 # VVS-Tarea05-jUnit
-Ejercicios de testeo de modulos
+Ejercicio de testeo de modulos
+
+https://github.com/AgustinGD/VVS-Tarea05-jUnit.git
